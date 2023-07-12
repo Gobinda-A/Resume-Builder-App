@@ -236,7 +236,9 @@ a{
     margin-bottom: 2.6rem;
     line-height: 1.6;
 }
-
+.header-content h6{
+    padding-top: 20px;
+}
 
 /* section one */
 .section-one{
